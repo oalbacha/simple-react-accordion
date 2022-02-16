@@ -1,5 +1,5 @@
 {
-  "name": "accordion",
+  "name": "simple-react-accordion",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
