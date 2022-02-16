@@ -5,7 +5,7 @@ import './App.css'
 function App() {
   return (
     <div className="App">
-      <h1 className="app-title">React Accordion</h1>
+      <h1 className="app-title">Simple React Accordion</h1>
       <div className="accordion">
       {data.map((provider) => (
         <div key={provider.providerName}>
